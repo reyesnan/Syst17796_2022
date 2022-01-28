@@ -14,6 +14,10 @@ public class Study {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Welcome tu hithub");}
+        System.out.println("Welcome tu hithub");
+    
+        System.out.println("Esta funcionando ?");
+    }
+    
     
 }
