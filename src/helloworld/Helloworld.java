@@ -18,4 +18,6 @@ public class Helloworld {
         // TODO code application logic here
     }
  System.out.println("hello moto");
+    System.out.println("hello moto");
+    System.out.println("hello moto");
 }
